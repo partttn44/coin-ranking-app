@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+
+  "search": "Search",
+  "inviteFriends": "Invite Friends",
+  "inviteDescription": "Get bonus coins for each friend!",
+
+  "somethingWentWrong": "Something went wrong",
+  "unableToLoadCoins": "Unable to load coins.",
+  "unableToLoadCoinDetail": "Unable to load coin details.",
+  "emptyCoins": "No coins found",
+  "tryAgain": "Try again",
+
+  "price": "Price",
+  "marketCap": "Market Cap",
+  "noDescription": "No description",
+  "readMore": "Read more"
+}

@@ -1,0 +1,64 @@
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Keep pubspec.lock for Flutter application
+!pubspec.lock
+
+
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/**/GeneratedPluginRegistrant.java
+*.jks
+*.keystore
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+
+# Windows / Linux generated
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Web generated
+web/.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# VS Code API key configurations
+.vscode/launch.json
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets.json
